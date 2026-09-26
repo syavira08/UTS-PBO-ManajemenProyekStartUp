@@ -1,4 +1,4 @@
-# Minpro-2-PBO-ManajemenProyekStartUp
+# UTS-PBO-ManajemenProyekStartUp
 
 Program ini dibuat menggunakan Java untuk membantu sebuah startup mencatat dan mengelola proyek-proyeknya. Program ini bisa menyimpan, menampilkan, mengubah, dan menghapus data proyek atau biasa disebut operasi CRUD (Create, Read, Update, Delete).
 
