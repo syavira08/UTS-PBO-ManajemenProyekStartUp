@@ -1,3 +1,7 @@
+Nama: Syavira Firnanda Prawiro
+
+NIM: 2509116072
+
 # UTS-PBO-ManajemenProyekStartUp
 
 Program ini dibuat menggunakan Java untuk membantu sebuah startup mencatat dan mengelola proyek-proyeknya. Program ini bisa menyimpan, menampilkan, mengubah, dan menghapus data proyek atau biasa disebut operasi CRUD (Create, Read, Update, Delete).
